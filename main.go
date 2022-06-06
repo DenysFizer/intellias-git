@@ -3,5 +3,6 @@ package git
 import "fmt"
 
 func main() {
-	fmt.Println("hello Word")
+	fmt.Println("its megit")
+
 }
